@@ -25,6 +25,7 @@ alias pipesh="bash /home/silvertail/Downloads/pipes.sh/pipes.sh"
 alias chyprshot="rm /home/silvertail/Pictures/*hyprshot.png"
 alias aquarium="asciiquarium"
 alias mktemp="cd '$(mktemp -d)'"
+alias map="mapscii"
 #bat
 alias cat='bat'
 alias catn='bat --style=plain'
