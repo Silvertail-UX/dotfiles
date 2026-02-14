@@ -45,3 +45,4 @@ in ~/.config/nvim/init.lua add neovim_transparent
 - aalib
 - asciiquarium
 - sl
+- mapscii
