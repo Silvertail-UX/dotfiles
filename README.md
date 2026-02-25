@@ -16,7 +16,7 @@
 - For no autocomplete:
 in ~/.confg/nvim/lua/plugins/init.lua add init.lua
 - For transparecy:
-in ~/.config/nvim/init.lua add neovim_transparent
+in ~/.config/nvim/init.lua add neovim_transparent.txt
 ## Credits
 - Waybar config: https://github.com/HANCORE-linux/waybar-themes
 ## Important Notes
